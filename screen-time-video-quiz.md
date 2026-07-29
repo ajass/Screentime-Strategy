@@ -16,7 +16,7 @@ This quiz is designed for twin 11-year-old boys. Administering it correctly is c
 
 **The Approach:**
 
-1. **Give the quiz separately.** One boy stays with you, the other goes to another room. Then swap. This prevents copying and forces independent recall.
+1. **Give the quiz separately.** One boy stays with you, the other goes to another room. Then swap. This prevents copying and forces independent recall. Note: The quiz (screen-time-video-quiz.md) is a SEPARATE document from the worksheets. The worksheets (Parts 1-3) are filled out during and immediately after the video. The quiz is given after the worksheets are done, as a comprehension check.
 
 2. **Print the quiz on paper, not on a screen.** This removes the irony of using a screen to test screen time comprehension, and it eliminates the temptation to look things up.
 

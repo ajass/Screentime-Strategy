@@ -25,13 +25,13 @@ The discussion itself is fine to do together — shared family experience, heari
 
 1. **Watch together.** This is the right call — it is a family activity and hearing each other's reactions is part of the process.
 
-2. **Give each of them a printed worksheet before the video starts.** The worksheet has the 6-question self-quiz and space for notes. Tell them: "Write your own answers. No looking at your brother's paper. These are private — I will not share them with anyone." This gets honest individual data.
+2. **Give each of them ONLY Part 1 (self-quiz) before the video starts.** Do NOT give them the full worksheet upfront — 11-year-olds will read ahead, which contaminates the self-quiz answers and ruins the big question at the end. Hand out each part as it is needed (see deployment instructions below). Tell them: "Write your own answers. No looking at your brother's paper. These are private — I will not share them with anyone."
 
 3. **Pause and discuss together.** After each chapter, ask the discussion questions out loud. Both will hear each other's answers. That is fine for discussion — the goal is thinking, not privacy.
 
-4. **After the video, give them the quiz separately.** One stays with you, the other goes to another room (or does it on paper at the kitchen table while you do something else with the first one). Then swap. This prevents copying and forces independent recall.
+4. **At 2:26, hand out Part 2 (notes).** They use this to write down things that surprise them during each chapter.
 
-5. **The big question (what is reasonable for you?) — ask privately, one on one.** This is the most important one. Ask each twin individually, not together. If you ask together, they will negotiate a shared answer in real time. Separately, they each have to think for themselves. Write down what each one says.
+5. **After the video, hand out Part 3 (level ups + big question).** They have not seen this yet, so the big question lands fresh. Give them time to fill it out privately.
 
 6. **Then bring them back together and build the agreement.** Now you have two independent answers. You can say: "You each came up with your own number. Let's talk about how we combine these into a family plan." This treats them as individuals who contributed independently, which respects their autonomy and avoids the twin dynamic undermining the self-regulation goal.
 
@@ -47,11 +47,13 @@ The goal is not getting the right answer. The goal is getting them to think abou
 
 **For the discussion questions:** Ask these out loud to both boys together. Hearing each other's answers is part of the learning.
 
-**For the self-quiz (at 0:41):** They write answers on their printed worksheets. Private. No sharing until both are done.
+**For the self-quiz (at 0:41):** They write answers on their Part 1 worksheets (handed out before the video). Private. No sharing until both are done.
 
-**For the quiz (after the video):** Administer separately, one at a time, in different rooms.
+**For the notes (at 2:26):** Hand out Part 2. They write independently during each chapter.
 
-**For the big question (after the quiz):** Ask one-on-one, not together. Write down what each says independently.
+**For the quiz (after the video):** Administer separately, one at a time, in different rooms. Use the quiz file (screen-time-video-quiz.md), printed on paper.
+
+**For the big question (after the quiz):** Hand out Part 3 (level ups + big question). They fill it out privately. Then ask the "boss of your tablet" question one-on-one as a conversation — the worksheet captures their written answer, but the verbal conversation is where the real reflection happens.
 
 ---
 
