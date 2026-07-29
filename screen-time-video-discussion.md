@@ -7,11 +7,51 @@
 
 ---
 
+## Approach for Parents (Read This First)
+
+This guide is designed for twin 11-year-old boys. The twin dynamic creates specific challenges that require a deliberate approach.
+
+### The Problem with Watching Together
+
+When twins watch content and answer questions side by side, three failure modes emerge:
+
+1. Echo effect — one answers, the other mirrors to avoid disagreement
+2. Dominance — the more vocal twin sets the tone and the quieter one defers
+3. Performance — they coordinate to give answers they think you want, or team up against the premise
+
+The discussion itself is fine to do together — shared family experience, hearing each other's thoughts is valuable. But the answers that need honesty (the self-quiz, the quiz, and the "big question" about reasonable limits) need to be private to actually mean anything.
+
+### The Approach
+
+1. **Watch together.** This is the right call — it is a family activity and hearing each other's reactions is part of the process.
+
+2. **Give each of them a printed worksheet before the video starts.** The worksheet has the 6-question self-quiz and space for notes. Tell them: "Write your own answers. No looking at your brother's paper. These are private — I will not share them with anyone." This gets honest individual data.
+
+3. **Pause and discuss together.** After each chapter, ask the discussion questions out loud. Both will hear each other's answers. That is fine for discussion — the goal is thinking, not privacy.
+
+4. **After the video, give them the quiz separately.** One stays with you, the other goes to another room (or does it on paper at the kitchen table while you do something else with the first one). Then swap. This prevents copying and forces independent recall.
+
+5. **The big question (what is reasonable for you?) — ask privately, one on one.** This is the most important one. Ask each twin individually, not together. If you ask together, they will negotiate a shared answer in real time. Separately, they each have to think for themselves. Write down what each one says.
+
+6. **Then bring them back together and build the agreement.** Now you have two independent answers. You can say: "You each came up with your own number. Let's talk about how we combine these into a family plan." This treats them as individuals who contributed independently, which respects their autonomy and avoids the twin dynamic undermining the self-regulation goal.
+
+The one-on-one time is also where the honest "are you the boss of your tablet or is it the boss of you" conversation happens. That question will get a very different answer in a private conversation versus on the couch next to a sibling.
+
+---
+
 ## How to Use This Guide
 
 Watch the video WITH them. The video has chapter markers built in. Pause at each chapter and ask the questions below. Don't frame it as a test — frame it as "let's see if we both got that."
 
 The goal is not getting the right answer. The goal is getting them to think about the concepts in their own words.
+
+**For the discussion questions:** Ask these out loud to both boys together. Hearing each other's answers is part of the learning.
+
+**For the self-quiz (at 0:41):** They write answers on their printed worksheets. Private. No sharing until both are done.
+
+**For the quiz (after the video):** Administer separately, one at a time, in different rooms.
+
+**For the big question (after the quiz):** Ask one-on-one, not together. Write down what each says independently.
 
 ---
 

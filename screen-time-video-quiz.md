@@ -8,6 +8,28 @@
 
 ## How to Use This Quiz
 
+### For Parents (Read This First)
+
+This quiz is designed for twin 11-year-old boys. Administering it correctly is critical to getting honest, independent answers.
+
+**The Problem:** If both twins take the quiz side by side, they will copy each other, negotiate answers, or one will dominate and the other will follow. The quiz will measure groupthink, not comprehension.
+
+**The Approach:**
+
+1. **Give the quiz separately.** One boy stays with you, the other goes to another room. Then swap. This prevents copying and forces independent recall.
+
+2. **Print the quiz on paper, not on a screen.** This removes the irony of using a screen to test screen time comprehension, and it eliminates the temptation to look things up.
+
+3. **Frame it as low-stakes.** Say: "This is not for a grade. It is to see what made sense and what we should talk about more." If they feel tested, they will cheat or shut down. If they feel like they are helping you understand what landed, they will be honest.
+
+4. **Do not review answers immediately.** Let the quiz sit after each boy finishes. Review them after both are done, and after the big question (one-on-one) has been asked. The quiz is a comprehension check — the big question is the real test.
+
+5. **If they miss a question, that is information, not failure.** It tells you which concept to revisit in a future conversation. Do not say "you got that wrong." Say "let's talk about that part again — I think the video explained it in a confusing way."
+
+6. **The short answer questions matter more than the multiple choice.** Multiple choice tells you if they can recognize the concept. Short answer tells you if they can USE it. Question 16 ("Are you the boss of your tablet or is it the boss of you?") is the most important question in the entire exercise. Ask it one-on-one, not on paper — the conversation it starts is more valuable than the written answer.
+
+### General Instructions
+
 Give this AFTER watching the video together and having the discussion. Frame it as: "Let's see what you remember — this is not for a grade, it's to see what made sense and what we should talk about more."
 
 Answer key is at the bottom. If they miss a question, that tells you which concept to revisit.
