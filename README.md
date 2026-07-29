@@ -12,6 +12,7 @@ Resources for teaching 11-year-old kids about screen time, dopamine, and self-re
 - **worksheet-part3-levelups-bigquestion.txt** — Printable. Handed out AFTER the video. Contains level-up picks and the big question about reasonable screen time.
 - **family-plan-guide.md** — Parent guide for negotiating the family plan, handling high proposals, managing the transition when kids are obsessed, and when to add structure if self-regulation is not working.
 - **family-plan-agreement.txt** — Printable. The agreement template kids and parents sign together. Includes screen time number, what counts, screen-free zones/times, level ups, and review schedule.
+- **time-management-guide.md** — Parent guide for helping kids stick to their agreed time limit when they have no time awareness. Covers tablet setup (iPad/Android/Fire), visual timers, staged warnings, escalation ladder, and the long game of removing scaffolding as self-regulation develops.
 
 ## Approach
 
@@ -91,6 +92,13 @@ Read family-plan-guide.md BEFORE the agreement discussion. It covers:
 - The weekly check-in process
 - Managing the transition when kids are obsessed (expect dopamine withdrawal, boredom, pushback)
 - When to add parental controls as scaffolding if self-regulation is not working after 4-6 weeks
+
+Also read time-management-guide.md BEFORE the agreement discussion. It covers:
+- How to set up tablet controls (iPad Screen Time, Android Family Link, Amazon Kids) with them, not secretly
+- What apps to limit vs. exclude (consumption vs. creation)
+- Visual timers and staged warnings to externalize time
+- The escalation ladder if they push through controls
+- The long game: gradually removing scaffolding as self-regulation develops
 
 Then print family-plan-agreement.txt (2 copies, one per kid) and fill it out together:
 - Part A: Their screen time number (summer and school days)
