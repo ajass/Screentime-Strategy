@@ -10,6 +10,8 @@ Resources for teaching 11-year-old kids about screen time, dopamine, and self-re
 - **worksheet-part1-self-quiz.txt** — Printable. Handed out BEFORE the video. Contains the 6-question self-quiz only.
 - **worksheet-part2-notes.txt** — Printable. Handed out at 2:26 during the video. Contains note-taking space for each chapter.
 - **worksheet-part3-levelups-bigquestion.txt** — Printable. Handed out AFTER the video. Contains level-up picks and the big question about reasonable screen time.
+- **family-plan-guide.md** — Parent guide for negotiating the family plan, handling high proposals, managing the transition when kids are obsessed, and when to add structure if self-regulation is not working.
+- **family-plan-agreement.txt** — Printable. The agreement template kids and parents sign together. Includes screen time number, what counts, screen-free zones/times, level ups, and review schedule.
 
 ## Approach
 
@@ -80,14 +82,36 @@ Designed for twin 11-year-old boys. The worksheet is split into three parts to p
 - Say: "You each came up with your own number. Let's talk about how we combine these into a family plan."
 - Build the agreement together based on their independent input
 
+### After the Session — Building the Family Plan
+
+Read family-plan-guide.md BEFORE the agreement discussion. It covers:
+- How to handle high proposals (e.g., 4 hours summer / 2 hours school days) without overriding their agency
+- What counts as screen time (consumption vs. creation)
+- Non-negotiable screen-free zones and times
+- The weekly check-in process
+- Managing the transition when kids are obsessed (expect dopamine withdrawal, boredom, pushback)
+- When to add parental controls as scaffolding if self-regulation is not working after 4-6 weeks
+
+Then print family-plan-agreement.txt (2 copies, one per kid) and fill it out together:
+- Part A: Their screen time number (summer and school days)
+- Part B: What counts as screen time (agree on consumption vs. creation)
+- Part C: Screen-free zones and times (same for everyone, non-negotiable)
+- Part D: Their two level ups
+- Part E: The review schedule (weekly check-ins, two-week review)
+- Part F: Everyone signs — kid, mom, dad
+
 ### Timing
 
-Total time: approximately 60-75 minutes
+Total time for video session: approximately 60-75 minutes
 - Video + discussion: 25-30 min
 - Quiz (two boys separately): 15 min
 - Part 3 worksheets: 10 min
 - One-on-one conversations: 10 min
 - Group agreement discussion: 10-15 min
+
+Family plan discussion: separate session, 30-45 minutes
+- Print and fill out the agreement together
+- Allow time for negotiation on the number and what counts as screen time
 
 ## Video
 
