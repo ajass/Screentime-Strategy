@@ -33,7 +33,13 @@ Resources for teaching 11-year-old kids about screen time, dopamine, and self-re
 │  └─ kid-worksheets/worksheet-2-video-notes.txt
 │  └─ kid-worksheets/worksheet-3-levelups-bigquestion.txt
 │  └─ kid-worksheets/family-plan-agreement.txt
-│  └─ quiz questions only from 03-video-comprehension-quiz.md
+│
+│  Print 1 copy of the facilitation checklist for yourself:
+│  └─ parent-guides/00-session-facilitation-checklist.txt
+│
+│  Quiz (03-video-comprehension-quiz.md) is OPTIONAL — the
+│  discussion + worksheets cover the same ground. Skip unless
+│  you want a formal written comprehension record.
 │
 └─────────────────────────────────────────────────────────
                           │
@@ -58,9 +64,13 @@ Resources for teaching 11-year-old kids about screen time, dopamine, and self-re
                           │
                           ▼
 ┌─────────────────────────────────────────────────────────
-│  PHASE 3: QUIZ (separate rooms, ~15 min)
+│  PHASE 3: QUIZ (OPTIONAL — separate rooms, ~15 min)
 │
-│  Boy 1 in room A with quiz on paper (no screens)
+│  The quiz is optional. The video discussion + worksheets
+│  cover the same comprehension ground. Skip unless you want
+│  a formal written record of each kid's individual recall.
+│
+│  If using: Boy 1 in room A with quiz on paper (no screens)
 │  Boy 2 in room B with quiz on paper (no screens)
 │  Swap when first is done
 │  └─ Do NOT review answers immediately
@@ -141,9 +151,10 @@ Screentime-Strategy/
 ├── README.md                              ← You are here
 │
 ├── parent-guides/
+│   ├── 00-session-facilitation-checklist.txt   Print this — step-by-step timeline, discussion questions, worksheet handout cues
 │   ├── 01-screen-time-research.md          Research, dopamine science, how to explain to kids
 │   ├── 02-video-discussion-guide.md        Chapter-by-chapter discussion questions + twin approach
-│   ├── 03-video-comprehension-quiz.md      13-question quiz + parent administration instructions
+│   ├── 03-video-comprehension-quiz.md      13-question quiz (OPTIONAL) + parent administration instructions
 │   ├── 04-family-plan-guide.md             How to negotiate the agreement, handle high proposals
 │   ├── 05-time-management-guide.md         Tablet setup, visual timers, escalation ladder
 │   └── 06-breaking-the-agreement.md        Violation levels, consequences, reset conversation
@@ -161,9 +172,10 @@ Screentime-Strategy/
 
 | What | File | When |
 |------|------|------|
+| Facilitation checklist (print this) | parent-guides/00-session-facilitation-checklist.txt | Hold during session |
 | The science behind the approach | parent-guides/01-screen-time-research.md | Read first |
 | How to run the video session | parent-guides/02-video-discussion-guide.md | Read before session |
-| The quiz + how to give it | parent-guides/03-video-comprehension-quiz.md | Read before session |
+| The quiz (optional) + how to give it | parent-guides/03-video-comprehension-quiz.md | Read before session if using quiz |
 | How to negotiate the plan | parent-guides/04-family-plan-guide.md | Read before Phase 5 |
 | How to enforce time limits | parent-guides/05-time-management-guide.md | Read before Phase 5 |
 | What to do when they break it | parent-guides/06-breaking-the-agreement.md | Read before you need it |
